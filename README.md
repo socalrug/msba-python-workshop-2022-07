@@ -17,6 +17,10 @@ In this workshop, a basic introduction to Python will be presented covering fund
 
  Online (Zoom)
 
+## Prerequisites
+
+* [Sign up](https://login.rstudio.cloud/register) for a free RStudio Cloud account.
+
 ## Course Logistics
 
 * 3 hours each day, 2 days total

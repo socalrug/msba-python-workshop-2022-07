@@ -34,7 +34,7 @@ Passcode: 398566
     * Teaching assistants will be assigned to breakout rooms
     * 10 min review & questions
 * 4 sessions per day (160 min for sessions + 10 min break + 10 min wrap-up)
-    *8 sessions total for both days
+    * Eight sessions total for both days
 * [RStudio Cloud Project](https://rstudio.cloud/spaces/256813/join?access_code=ySP5krHpYeQpLw0KrB1pzUn41uVXp2hQ7nR138JT). This is where you will do your coding. 
 ## Schedule
 

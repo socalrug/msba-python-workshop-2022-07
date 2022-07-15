@@ -15,7 +15,11 @@ In this workshop, a basic introduction to Python will be presented covering fund
 
 ### Location
 
- Online (Zoom)
+[Zoom](https://uci.zoom.us/j/94661811499?pwd=SlpCSmF6MkwvYnR1ZWFhWkxQeDMrUT09)
+
+Meeting ID: 946 6181 1499
+
+Passcode: 398566
 
 ## Prerequisites
 
@@ -31,7 +35,7 @@ In this workshop, a basic introduction to Python will be presented covering fund
     * 10 min review & questions
 * 4 sessions per day (160 min for sessions + 10 min break + 10 min wrap-up)
     *8 sessions total for both days
-
+* [RStudio Cloud Project](https://rstudio.cloud/spaces/256813/join?access_code=ySP5krHpYeQpLw0KrB1pzUn41uVXp2hQ7nR138JT). This is where you will do your coding. 
 ## Schedule
 
 The two-day workshop will be presented as 4 sessions each day, where each session is roughly divided into 15 minutes of instruction, 15 minutes of practice and exercises, and 10 minutes of review (~40 min per session).
@@ -39,6 +43,8 @@ The two-day workshop will be presented as 4 sessions each day, where each sessio
 ### Thursday July 28: Python Fundamentals
 
 The focus will be on Python as a language, drawing from the python docs: https://docs.python.org/3/
+
+Instructor: [Bryan Smith, Ph.D.](https://www.linkedin.com/in/bryantravissmith/), Data Scientist at Google.
 
 * Session 1: Using JupyterLab Notebooks
     * What is a notebook, why are they useful?
@@ -62,7 +68,9 @@ The focus will be on Python as a language, drawing from the python docs: https:/
 
 ### Friday July 29: Applied Data Science Fundamentals with `pandas`
 
-The focus will be on Pandas as the entry into data science specific tasks, drawing from the getting started tutorials: https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html
+The focus will be on Pandas as the entry into data science specific tasks, drawing from the [getting started tutorials](https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html).
+
+Instructor: [Basil Latif](https://www.linkedin.com/in/basil-latif/), Data Scientist at CALSTART.
 
 * Session 5: Introduction to `pandas`
     * Why tabular data tables are useful for data science (compare to Excel)

@@ -16,9 +16,7 @@ In this workshop, a basic introduction to Python will be presented covering fund
 ### Location
 
 [Zoom](https://uci.zoom.us/j/94661811499?pwd=SlpCSmF6MkwvYnR1ZWFhWkxQeDMrUT09)
-
 Meeting ID: 946 6181 1499
-
 Passcode: 398566
 
 ## Prerequisites

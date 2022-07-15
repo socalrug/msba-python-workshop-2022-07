@@ -42,7 +42,7 @@ The two-day workshop will be presented as 4 sessions each day, where each sessio
 
 ### Thursday July 28: Python Fundamentals
 
-The focus will be on Python as a language, drawing from the python docs: https://docs.python.org/3/
+The focus will be on Python as a language, drawing from the [Python docs](https://docs.python.org/3/).
 
 Instructor: [Bryan Smith, Ph.D.](https://www.linkedin.com/in/bryantravissmith/), Data Scientist at Google.
 

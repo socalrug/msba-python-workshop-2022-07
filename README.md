@@ -70,8 +70,6 @@ Instructor: [Bryan Smith, Ph.D.](https://www.linkedin.com/in/bryantravissmith/),
 
 The focus will be on Pandas as the entry into data science specific tasks, drawing from the [getting started tutorials](https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html).
 
-Instructor: [Basil Latif](https://www.linkedin.com/in/basil-latif/), Data Scientist at CALSTART.
-
 * Session 5: Introduction to `pandas`
     * Why tabular data tables are useful for data science (compare to Excel)
     * Series and DataFrames
